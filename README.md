@@ -42,7 +42,7 @@
 
 ## Projects 🛠️
 
-### **Spotify Clone**  
+### **Tune Stream**  
 🎵 Full-stack music streaming app using Flutter, FastAPI, PostgreSQL, and Riverpod.  
 - Foreground audio playback with playlists and favorites.  
 - Local storage with Hive & Shared Preferences.  
